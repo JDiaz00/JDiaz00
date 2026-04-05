@@ -76,4 +76,4 @@ _Oct 2021 – Jun 2023_
 ---
 
 ## 🌐 Links
-GitHub: https://github.com/J007IA
+Lkdn: https://www.linkedin.com/in/julio-d%C3%ADazml/
