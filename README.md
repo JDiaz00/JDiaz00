@@ -14,7 +14,7 @@ I’ve led teams, built AI systems used in production, and consistently delivere
 
 ## 💼 Experience
 
-### AI Engineer — Yavendio
+### Tech Lead AI Seller — Yavendio
 _Apr 2025 – Present_
 - Architect and deploy multi-agent systems using LangGraph and LLM orchestration
 - Built scalable RAG pipelines with vector databases and optimized retrieval strategies
