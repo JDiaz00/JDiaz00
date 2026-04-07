@@ -1,8 +1,4 @@
 # Julio Díaz
-
-## 🚀 Headline
-Senior AI Engineer | GenAI | LLM Systems | Multi-Agent Architectures | Python | Production AI
-
 ---
 
 ## 🧠 About
